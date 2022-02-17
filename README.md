@@ -1,7 +1,7 @@
 ### Hi I'm Roger! 👋
 
-- 🔭 Trabalho com Frontend Full Stack
-- 🌱 Estudando Typescript, Angular, React, Nodejs, PHP/Laravel, Java e afins.
+- 🔭 Frontend Full Stack Developer
+- 🌱 Trying Typescript, Angular, React, Nodejs, PHP/Laravel, Java etc.
 
 <div>
   <a href="mailto:rogerbritosan@gmail.com">
