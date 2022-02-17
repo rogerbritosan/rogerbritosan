@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Frontend Full Stack
-- 🌱 I’m currently learning Angular, React and Vuejs
+- 🔭 Trabalho com Frontend Full Stack
+- 🌱 Estudando Typescript, Angular, React, Nodejs, PHP/Laravel e Java.
 
