@@ -32,3 +32,5 @@
   <img align="center" alt="" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
+
+![Snake animation](https://github.com/rogerbritosan/rogerbritosan/blob/output/github-contribution-grid-snake.svg)
