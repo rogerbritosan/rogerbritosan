@@ -1,6 +1,6 @@
 ### Hi I'm Roger! 👋
 
-- 🔭 Frontend Full Stack Developer
+- 🔭 Web Developer Full Stack
 - 🌱 Trying Typescript, Angular, React, Nodejs, PHP/Laravel, Java etc.
 
 <div>
