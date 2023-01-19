@@ -1,7 +1,7 @@
 ### Hi I'm Roger! 👋
 
 - 🔭 Java Web Developer Full Stack
-- 🌱 Another languages: Typescript, Angular, React, Nodejs, PHP/Laravel, Java.
+- 🌱 Another stacks: ReactJS, Nodejs, JavaScript, Typescript, Angular, PHP, Laravel, Wordpress.
 
 <div>
   <a href="mailto:rogerbritosan@gmail.com">
