@@ -1,7 +1,7 @@
 ### Hi I'm Roger! 👋
 
-- 🔭 Wordpress Developer
-- 🌱 Learning: ReactJS, Nodejs, JavaScript, Typescript, Angular, PHP, Laravel, MongoDb, MySQL.
+- 🔭 Java Developer
+- 🌱 Among others: ReactJS, Nodejs, JavaScript, Typescript, Angular, PHP, Laravel, MongoDb, MySQL, Wordpress.
 
 <div>
   <a href="mailto:rogerbritosan@gmail.com">
