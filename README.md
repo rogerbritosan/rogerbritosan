@@ -1,6 +1,6 @@
 ### Hi I'm Roger! 👋
 
-- 🔭 Java Developer
+- 🔭 Java Estudant
 - 🌱 Among others: ReactJS, Nodejs, JavaScript, Typescript, Angular, PHP, Laravel, MongoDb, MySQL, Wordpress.
 
 <div>
